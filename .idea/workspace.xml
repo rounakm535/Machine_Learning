@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bd2d242-2799-48fe-a464-2b65eb1d1918" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DSA/Array_Use/rev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.2 Paragraph Element/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.2 Paragraph Element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.2 Paragraph Element/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.3 Void Elements/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.3 Void Elements/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.3 Void Elements/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.4 Movie Ranking Project/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.4 Movie Ranking Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Dev/2.4 Movie Ranking Project/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mean_median_mode.py" beforeDir="false" afterPath="$PROJECT_DIR$/mean_median_mode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Dev/2.1 Heading Element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Dev/2.1 Heading Element/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my codes" beforeDir="false" afterPath="$PROJECT_DIR$/../my codes" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rounakm535"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rounakm535/Machine_Learning.git",
+    "accountId": "dce89768-47a8-428c-a5d7-e3d9cc8c2e94"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pz7CaKmER10CSi5kPCD2z6Givt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Data_dist.executor": "Run",
+    "Python.SD.executor": "Run",
+    "Python.mean_median_mode.executor": "Run",
+    "Python.percintile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd2d242-2799-48fe-a464-2b65eb1d1918" name="Changes" comment="" />
+      <created>1733756924002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733756924002</updated>
+    </task>
+    <servers />
+  </component>
+</project>
